@@ -1,0 +1,2 @@
+Guardar registro de banda
+Borrar registro de banda
